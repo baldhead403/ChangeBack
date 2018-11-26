@@ -1,0 +1,29 @@
+div{
+    background-color: blue;
+    height: 50px;
+    width: 100px;
+    border-radius: 45%;
+    position: relative;
+}
+.lightgrey{
+    background-color: lightgrey;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color:yellow;
+}
+.purple{
+    background-color:purple;
+}
+.orange{
+    background-color: orange;
+}
+.goldenrod{
+    background-color: goldenrod;
+    
+}
